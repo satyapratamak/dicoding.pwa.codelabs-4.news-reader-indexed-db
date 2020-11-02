@@ -1,7 +1,7 @@
 {
-    "name": "RumahFilm",
-    "short_name": "Rumah Film",
-    "description": "All about Movie",
+    "name": "My First PWA",
+    "short_name": "My PWA",
+    "description": "Aplikasi PWA pertama saya",
     "start_url": "/index.html",
     "display": "standalone",
     "background_color": "#00897B",
@@ -9,7 +9,7 @@
     "icons": [
         {
             "src": "icon.png",
-            "sizes": "1300x1300",
+            "sizes": "512x512",
             "type": "image/png"
         }
     ]
